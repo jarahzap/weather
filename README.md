@@ -5,7 +5,7 @@
 # Responses will be sent as a json with the following data:   	
   Date:	Date requested
   
-  Description:	Descitption of forecast eg. "broken clouds"
+  Description:	Description of forecast eg. "broken clouds"
   
   Max Temp: Maximum Temperature for that day in degrees farenheit
   
