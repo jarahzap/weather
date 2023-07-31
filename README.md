@@ -32,7 +32,7 @@ const WeatherComponent = () => {
   const fetchWeatherData = async () => {
     try {
       const response = await fetch(
-        `https://your-app-name.herokuapp.com/weather?city=${encodeURIComponent(
+        `https://weathermicro-52a3a2f0a6a1.herokuapp.com/weather?city=${encodeURIComponent(
           city
         )}&date=${encodeURIComponent(date)}`
       );
