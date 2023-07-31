@@ -50,7 +50,6 @@ const WeatherComponent = () => {
 
   return (
     <div>
-      <h2>Weather Forecast</h2>
       <input
         type="text"
         name="city"
