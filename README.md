@@ -12,7 +12,7 @@
     deg:	Wind degree
     gust:	Wind Gust
     speed:	Wind Speed
-# Example call usinf React
+# Example call using React
 import React, { useState } from 'react';
 
 const WeatherComponent = () => {
